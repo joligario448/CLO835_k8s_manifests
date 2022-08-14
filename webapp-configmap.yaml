@@ -6,6 +6,6 @@ data:
   group: Group1
   image_url: |
     {  
-      "success_url": "s3://simple-webapp-mysql-images-clo835/success.jpg", 
-      "failed_url": "s3://simple-webapp-mysql-images-clo835/failed.png"
+      "success_url": "s3://simple-webapp-mysql-images-joel/success.jpg", 
+      "failed_url": "s3://simple-webapp-mysql-images-joel/failed.png"
     }
