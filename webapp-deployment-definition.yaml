@@ -17,7 +17,7 @@ spec:
       serviceAccountName: clo835
       containers:
         - name: simple-webapp-mysql
-          image: 228064520835.dkr.ecr.us-east-1.amazonaws.com/simple-webapp-mysql:v1.6
+          image: 552428246394.dkr.ecr.us-east-1.amazonaws.com/simple-webapp-mysql:v1.7
           ports:
             - containerPort: 81
           env:
